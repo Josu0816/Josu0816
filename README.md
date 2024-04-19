@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Josu0816
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++, Javascript 
+- 🌱 I’m currently learning C++; C#; and Python
+- 
 
 
 
